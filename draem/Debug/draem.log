@@ -1,0 +1,67 @@
+﻿  Source.cpp
+c:\users\user\desktop\resetrain system\draem\draem\source.cpp(167): warning C4005: 'sl1': macro redefinition
+  c:\users\user\desktop\resetrain system\draem\draem\source.cpp(33): note: see previous definition of 'sl1'
+c:\users\user\desktop\resetrain system\draem\draem\source.cpp(168): warning C4005: 'sl2': macro redefinition
+  c:\users\user\desktop\resetrain system\draem\draem\source.cpp(34): note: see previous definition of 'sl2'
+c:\users\user\desktop\resetrain system\draem\draem\source.cpp(169): warning C4005: 'sl3': macro redefinition
+  c:\users\user\desktop\resetrain system\draem\draem\source.cpp(35): note: see previous definition of 'sl3'
+c:\users\user\desktop\resetrain system\draem\draem\source.cpp(170): warning C4005: 'sl4': macro redefinition
+  c:\users\user\desktop\resetrain system\draem\draem\source.cpp(36): note: see previous definition of 'sl4'
+c:\users\user\desktop\resetrain system\draem\draem\source.cpp(171): warning C4005: 'sl5': macro redefinition
+  c:\users\user\desktop\resetrain system\draem\draem\source.cpp(37): note: see previous definition of 'sl5'
+c:\users\user\desktop\resetrain system\draem\draem\source.cpp(172): warning C4005: 'sl6': macro redefinition
+  c:\users\user\desktop\resetrain system\draem\draem\source.cpp(38): note: see previous definition of 'sl6'
+c:\users\user\desktop\resetrain system\draem\draem\source.cpp(173): warning C4005: 'sl7': macro redefinition
+  c:\users\user\desktop\resetrain system\draem\draem\source.cpp(39): note: see previous definition of 'sl7'
+c:\users\user\desktop\resetrain system\draem\draem\source.cpp(174): warning C4005: 'sl8': macro redefinition
+  c:\users\user\desktop\resetrain system\draem\draem\source.cpp(40): note: see previous definition of 'sl8'
+c:\users\user\desktop\resetrain system\draem\draem\source.cpp(235): warning C4005: 'sl1': macro redefinition
+  c:\users\user\desktop\resetrain system\draem\draem\source.cpp(167): note: see previous definition of 'sl1'
+c:\users\user\desktop\resetrain system\draem\draem\source.cpp(236): warning C4005: 'sl2': macro redefinition
+  c:\users\user\desktop\resetrain system\draem\draem\source.cpp(168): note: see previous definition of 'sl2'
+c:\users\user\desktop\resetrain system\draem\draem\source.cpp(237): warning C4005: 'sl3': macro redefinition
+  c:\users\user\desktop\resetrain system\draem\draem\source.cpp(169): note: see previous definition of 'sl3'
+c:\users\user\desktop\resetrain system\draem\draem\source.cpp(238): warning C4005: 'sl4': macro redefinition
+  c:\users\user\desktop\resetrain system\draem\draem\source.cpp(170): note: see previous definition of 'sl4'
+c:\users\user\desktop\resetrain system\draem\draem\source.cpp(239): warning C4005: 'sl5': macro redefinition
+  c:\users\user\desktop\resetrain system\draem\draem\source.cpp(171): note: see previous definition of 'sl5'
+c:\users\user\desktop\resetrain system\draem\draem\source.cpp(240): warning C4005: 'sl6': macro redefinition
+  c:\users\user\desktop\resetrain system\draem\draem\source.cpp(172): note: see previous definition of 'sl6'
+c:\users\user\desktop\resetrain system\draem\draem\source.cpp(241): warning C4005: 'sl7': macro redefinition
+  c:\users\user\desktop\resetrain system\draem\draem\source.cpp(173): note: see previous definition of 'sl7'
+c:\users\user\desktop\resetrain system\draem\draem\source.cpp(316): warning C4005: 'sl1': macro redefinition
+  c:\users\user\desktop\resetrain system\draem\draem\source.cpp(235): note: see previous definition of 'sl1'
+c:\users\user\desktop\resetrain system\draem\draem\source.cpp(317): warning C4005: 'sl2': macro redefinition
+  c:\users\user\desktop\resetrain system\draem\draem\source.cpp(236): note: see previous definition of 'sl2'
+c:\users\user\desktop\resetrain system\draem\draem\source.cpp(318): warning C4005: 'sl3': macro redefinition
+  c:\users\user\desktop\resetrain system\draem\draem\source.cpp(237): note: see previous definition of 'sl3'
+c:\users\user\desktop\resetrain system\draem\draem\source.cpp(319): warning C4005: 'sl4': macro redefinition
+  c:\users\user\desktop\resetrain system\draem\draem\source.cpp(238): note: see previous definition of 'sl4'
+c:\users\user\desktop\resetrain system\draem\draem\source.cpp(320): warning C4005: 'sl5': macro redefinition
+  c:\users\user\desktop\resetrain system\draem\draem\source.cpp(239): note: see previous definition of 'sl5'
+c:\users\user\desktop\resetrain system\draem\draem\source.cpp(321): warning C4005: 'sl6': macro redefinition
+  c:\users\user\desktop\resetrain system\draem\draem\source.cpp(240): note: see previous definition of 'sl6'
+c:\users\user\desktop\resetrain system\draem\draem\source.cpp(322): warning C4005: 'sl7': macro redefinition
+  c:\users\user\desktop\resetrain system\draem\draem\source.cpp(241): note: see previous definition of 'sl7'
+c:\users\user\desktop\resetrain system\draem\draem\source.cpp(323): warning C4005: 'sl8': macro redefinition
+  c:\users\user\desktop\resetrain system\draem\draem\source.cpp(174): note: see previous definition of 'sl8'
+c:\users\user\desktop\resetrain system\draem\draem\source.cpp(324): warning C4005: 'sl9': macro redefinition
+  c:\users\user\desktop\resetrain system\draem\draem\source.cpp(41): note: see previous definition of 'sl9'
+c:\users\user\desktop\resetrain system\draem\draem\source.cpp(424): warning C4005: 'sl1': macro redefinition
+  c:\users\user\desktop\resetrain system\draem\draem\source.cpp(316): note: see previous definition of 'sl1'
+c:\users\user\desktop\resetrain system\draem\draem\source.cpp(425): warning C4005: 'sl2': macro redefinition
+  c:\users\user\desktop\resetrain system\draem\draem\source.cpp(317): note: see previous definition of 'sl2'
+c:\users\user\desktop\resetrain system\draem\draem\source.cpp(426): warning C4005: 'sl3': macro redefinition
+  c:\users\user\desktop\resetrain system\draem\draem\source.cpp(318): note: see previous definition of 'sl3'
+c:\users\user\desktop\resetrain system\draem\draem\source.cpp(427): warning C4005: 'sl4': macro redefinition
+  c:\users\user\desktop\resetrain system\draem\draem\source.cpp(319): note: see previous definition of 'sl4'
+c:\users\user\desktop\resetrain system\draem\draem\source.cpp(428): warning C4005: 'sl5': macro redefinition
+  c:\users\user\desktop\resetrain system\draem\draem\source.cpp(320): note: see previous definition of 'sl5'
+c:\users\user\desktop\resetrain system\draem\draem\source.cpp(429): warning C4005: 'sl6': macro redefinition
+  c:\users\user\desktop\resetrain system\draem\draem\source.cpp(321): note: see previous definition of 'sl6'
+c:\users\user\desktop\resetrain system\draem\draem\source.cpp(430): warning C4005: 'sl7': macro redefinition
+  c:\users\user\desktop\resetrain system\draem\draem\source.cpp(322): note: see previous definition of 'sl7'
+c:\users\user\desktop\resetrain system\draem\draem\source.cpp(551): warning C4129: '-': unrecognized character escape sequence
+c:\users\user\desktop\resetrain system\draem\draem\source.cpp(490): warning C4715: 'food': not all control paths return a value
+  draem.vcxproj -> C:\Users\User\Desktop\resetrain system\draem\Debug\draem.exe
+  draem.vcxproj -> C:\Users\User\Desktop\resetrain system\draem\Debug\draem.pdb (Partial PDB)
